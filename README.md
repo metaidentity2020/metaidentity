@@ -1,1 +1,5 @@
-# metaidentity
+MetaIdentity is a technology project aiming at providing the answer to the deficiency of the current Metaverse digital identity solution by developing fully decentralized identities and building a credit system in the Metaverse using blockchain technologies.
+MetaIdentity will be available as a layer-3 middleware protocol built on Algorand Blockchain leveraging Algorand smart contracts and NFT.
+MetaIdentity works by conducting comprehensive processing and evaluation of information such as credit history, on-chain behavior, address activity level, asset holdings, and address correlation to construct a MetaIdentity Trust Score (MTS) in the format of NFT.
+The MetaIdentity Trust Score helps Metaverse users to establish and display reliable on-chain identity & credit records and makes it easier for other use cases such as DeFi, Metaverse gaming and DAO to server their users better.
+MetaIdentity will be freely available for everyone in the world to use with open-source code to encourage future improvements.
